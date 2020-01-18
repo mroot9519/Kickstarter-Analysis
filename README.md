@@ -10,3 +10,6 @@ Various charting and statistical analyses of kickstarter campaign data.
 -Successful US plays also have a duration that is about 1 week shorter than that of failed play kickerstarters.
 
 -The most successful US play kickstarters occured in May and June.
+
+## Reccommendations
+I recommend Louise kickstart a US play in late spring or early summer, with pledged dollars as close to ehr fundraising goal as possible. 
