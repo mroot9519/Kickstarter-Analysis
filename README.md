@@ -13,3 +13,8 @@ Various charting and statistical analyses of kickstarter campaign data.
 
 ## Reccommendations
 I recommend Louise kickstart a US play in late spring or early summer, with pledged dollars as close to ehr fundraising goal as possible. 
+
+### Challenge
+Analyzes chances of plays success based on fundraising goal amount and chances of theatre kickstarter success based on launch date.
+
+!
