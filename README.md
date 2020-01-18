@@ -16,4 +16,13 @@ I recommend Louise kickstart a US play in late spring or early summer, with pled
 ### Challenge
 Analyzes chances of plays success based on fundraising goal amount and chances of theatre kickstarter success based on launch date.
 
-!
+![Outcomes absed on Goal](https://github.com/mroot9519/Kickstarter-Analysis/blob/master/Outcome%20based%20on%20Goal%20-%20Challenge%201.png)
+![Outcomes based on Launch date}(https://github.com/mroot9519/Kickstarter-Analysis/blob/master/Outcomes%20based%20on%20Launch%20Date.png
+
+### Challenge findings
+- Successful kickstarters tend to have more modest fundraising goals (less than 10000.
+- Most successful theatre kickstarters occur in late spring through early sumemr (April through July.)
+- Within the theatre parent caetegory, 0 play productions had been canceled.
+
+### Data Set Limitations
+The above conclusions were did not have any filtering based on location, therefore there is potential oversight of geographic nuances. The fundraising goal portion was based off of the goals column in the data set, but these amounts are not all USD, therefore there is no adjustment for foreign exchange.
